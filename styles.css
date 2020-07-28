@@ -1,0 +1,16 @@
+#pushUp{
+    margin-top: 20px;
+}
+
+
+.getmetocenter input { 
+    margin-left: 5px;
+}
+
+input#email.form-control{
+    width: 26%;
+}
+
+input#password.form-control{
+    width: 26%;
+}
